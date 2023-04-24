@@ -1,7 +1,5 @@
 import vk_api
 
-LOGIN, PASSWORD = '89091575553', 'Maxim500'
-
 
 def auth_handler():
     """ При двухфакторной аутентификации вызывается эта функция. """
